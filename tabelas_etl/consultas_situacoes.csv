@@ -1,4 +1,101 @@
-,id,nome
-0,1,Cancelada
-1,2,Pendente
-2,3,Executada
+,id,nome,estado_sigla
+0,1,Lauro Muller,SC
+1,2,Berilo,MG
+2,3,Montanha,ES
+3,4,São Joaquim do Monte,PE
+4,5,Porto Nacional,TO
+5,6,Canoinhas,SC
+6,7,Nossa Senhora de Nazaré,PI
+7,8,Barra Bonita,SP
+8,9,Penedo,AL
+9,10,Nova Andradina,MS
+10,11,Mansidão,BA
+11,12,São Julião,PI
+12,13,Veredinha,MG
+13,14,São Gabriel do Oeste,MS
+14,15,Alhandra,PB
+15,16,pé de Serra,BA
+16,17,Jundiaí do Sul,PR
+17,18,Corumbá,MS
+18,19,Guaraci,PR
+19,20,Lajes Pintadas,RN
+20,21,Oliveira,MG
+21,22,Guairaçá,PR
+22,23,Pureza,RN
+23,24,Altinho,PE
+24,25,Malhada de Pedras,BA
+25,26,Goianésia do Pará,PA
+26,27,Inácio Martins,PR
+27,28,Piedade de Caratinga,MG
+28,29,Cacimbinhas,AL
+29,30,Palhoça,SC
+30,31,Papanduva,SC
+31,32,Angelim,PE
+32,33,Nova Esperança do Sudoeste,PR
+33,34,Alegrete,RS
+34,35,Monteirópolis,AL
+35,36,Juiz de Fora,MG
+36,37,Roca Sales,RS
+37,38,Lastro,PB
+38,39,Ererê,CE
+39,40,Campo do Meio,MG
+40,41,Nova Aliança,SP
+41,42,Itaqui,RS
+42,43,Quixaba,PE
+43,44,Suzano,SP
+44,45,Santa Teresinha,PB
+45,46,São João Evangelista,MG
+46,47,Cedro,PE
+47,48,Jaborá,SC
+48,49,Pinheiro Machado,RS
+49,50,Botuverá,SC
+50,51,Gameleira de Goiás,GO
+51,52,Jaci,SP
+52,53,Campo Grande,AL
+53,54,Pompéia,SP
+54,55,Iraí,RS
+55,56,Manoel Vitorino,BA
+56,57,Barreiros,PE
+57,58,Rio Doce,MG
+58,59,Vera Cruz,RN
+59,60,Areia Branca,RN
+60,61,Lajeado Novo,MA
+61,62,Mariluz,PR
+62,63,Muqui,ES
+63,64,Caputira,MG
+64,65,Joviânia,GO
+65,66,Elias Fausto,SP
+66,67,Cáceres,MT
+67,68,São José do Jacuri,MG
+68,69,Alegrete do Piauí,PI
+69,70,Treze Tílias,SC
+70,71,Faxinal do Soturno,RS
+71,72,Dona Eusébia,MG
+72,73,Itapagipe,MG
+73,74,Lagoa Vermelha,RS
+74,75,Paulo Ramos,MA
+75,76,Dores do Rio Preto,ES
+76,77,Marco,CE
+77,78,Belterra,PA
+78,79,São João da Paraúna,GO
+79,80,Victor Graeff,RS
+80,81,Aparecida D´oeste,SP
+81,82,Canitar,SP
+82,83,Caçapava,SP
+83,84,Jequeri,MG
+84,85,São Jerônimo da Serra,PR
+85,86,Iraí,RS
+86,87,Santa Rita,PB
+87,88,Juatuba,MG
+88,89,Canutama,AM
+89,90,Rio Brilhante,MS
+90,91,Serra Redonda,PB
+91,92,Glória,BA
+92,93,Aliança,PE
+93,94,Pentecoste,CE
+94,95,Santana de Mangueira,PB
+95,96,Igrapiúna,BA
+96,97,Planaltina do Paraná,PR
+97,98,São Miguel da Boa Vista,SC
+98,99,Campos Dos Goytacazes,RJ
+99,100,Carnaubais,RN
